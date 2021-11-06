@@ -1,1 +1,4 @@
-das ist eine dumme datei
+das ist eine super datei
+neine neue Zeile
+noch eine neue Zeile
+drei neue Zeilen sollten genug sein
